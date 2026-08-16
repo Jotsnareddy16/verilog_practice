@@ -1,3 +1,4 @@
 # verilog_practice
-it consists of all verilog codes from scratch
+it consists of all verilog codes from scratch.
+<br>
 author-jotsna
